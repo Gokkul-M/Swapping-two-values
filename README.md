@@ -31,8 +31,10 @@ print("Swapped values are: {} {}".format(x,y))
 ``````
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-10-20 090649.png>)
-![Alt text](<Screenshot 2023-10-20 090726.png>)
+![Screenshot 2023-10-20 090649](https://github.com/Gokkul-M/Swapping-two-values/assets/144870543/a70e18d9-01f8-4b12-8802-0559ffad9fba)
+![Screenshot 2023-10-20 090726](https://github.com/Gokkul-M/Swapping-two-values/assets/144870543/e8d7f7e8-aa36-4437-a3d9-461adffc7674)
+
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
